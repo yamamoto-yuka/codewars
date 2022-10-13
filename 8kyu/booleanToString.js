@@ -11,3 +11,5 @@ function boolToWord2(bool){
 let boolToWord3 = (bool) =>{
   return bool ? 'Yes' :'No';
 }
+
+let boolToWord4 = bool => bool ? 'Yes' : 'No';
